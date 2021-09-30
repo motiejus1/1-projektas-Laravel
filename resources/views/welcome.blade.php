@@ -85,6 +85,12 @@
                     Koreguoju pagrindini puslapikjdsaklajsd
                 </div>
 
+                <div class="my-routes-links">
+                    <a href="{{ url('/pirmasispuslapis') }}">Pirmasis puslapis</a>
+                    <a href="pakartotinenuoroda">Pakartotine nuoroda</a>
+                    <a href="antraspuslapis"> Antrasis puslapis</a>
+                </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
